@@ -1,0 +1,367 @@
+{   "movielst":[
+        {  
+            "movie":"The Help",
+            "img":"thehelp.jpg",
+            "age":2011
+        },
+        {
+            "movie":"Army of Darkness",
+            "img":"Army of Darkness.jpg",
+            "age":1992
+        },
+        {
+            "movie":"Mulan 1988",
+            "img":"mulan.jpg",
+            "age":1998
+        },
+        {
+            "movie":"Clear and present danger",
+            "img":"clearAndPresentDanger.jpg",
+            "age":1994
+        },
+        {
+            "movie":"The Prestige",
+            "img":"theprestige.jpg",
+            "age":2006
+        },
+        {
+            "movie":"Treasure Planet",
+            "img":"treasurePlanet.jpg",
+            "age":2002
+        },
+        {
+            "movie":"Groundhogs Day",
+            "img":"groundhogs day.jpg",
+            "age":1993
+        },
+        {
+            "movie":"The Truman Show",
+            "img":"the truman show.jpg",
+            "age":1998
+        },
+        {
+            "movie":"Master and Commander",
+            "img":"masterAndCommander.jpg",
+            "age":2003
+        },
+        {
+            "movie":"Twister",
+            "img":"twister.jpg",
+            "age":1996
+        },
+        {
+            "movie":"The Count of Monte Christo",
+            "img":"the count of monte cristo.jpg",
+            "age":2002
+        },
+        {
+            "movie":"Young Sherlock Holmes",
+            "img":"youngSherHolmes.jpg",
+            "age":1985
+        }
+    ],
+    "raffleList":[
+        {
+            "movie":"Bridge in the river Kwai",
+            "tickets":7,
+            "range":[1,7]
+        },
+        {
+            "movie":"Princess Mononoke",
+            "tickets":7,
+            "range":[8,14]
+        },
+        {
+            "movie":"Shrek",
+            "tickets":7,
+            "range":[15,21]
+        },
+        {
+            "movie":"Howls Moving Castle",
+            "tickets":6,
+            "range":[22,27]
+        },
+        {
+            "movie":"Secondhand Lions",
+            "tickets":5,
+            "range":[28,32]
+        },
+        {
+            "movie":"Shawshank Redemption",
+            "tickets":5,
+            "range":[33,37]
+        },
+        {
+            "movie":"Men in Tights",
+            "tickets":5,
+            "range":[38,42]
+        },
+        {
+            "movie":"Scott Pilgrim vs the World",
+            "tickets":5,
+            "range":[43,47]
+        },
+        {
+            "movie":"Toy Story 4",
+            "tickets":5,
+            "range":[48,52]
+        },
+        {
+            "movie":"Fargo",
+            "tickets":5,
+            "range":[53,57]
+        },
+        {
+            "movie":"Dune",
+            "tickets":5,
+            "range":[58,62]
+        },
+        {
+            "movie":"12 angry men",
+            "tickets":5,
+            "range":[63,67]
+        },
+        {
+            "movie":"Edge of Tomorrow",
+            "tickets":5,
+            "range":[68,72]
+        },
+        {
+            "movie":"If I Stay",
+            "tickets":4,
+            "range":[73,76]
+        },
+        {
+            "movie":"JoJo Rabbit",
+            "tickets":4,
+            "range":[77,80]
+        },
+        {
+            "movie":"Gladiator",
+            "tickets":4,
+            "range":[81,84]
+        },
+        {
+            "movie":"The Librarian",
+            "tickets":4,
+            "range":[85,88]
+        },
+        {
+            "movie":"The Scarlett Pimpernel",
+            "tickets":4,
+            "range":[89,92]
+        },
+        {
+            "movie":"Dirty Rotten Scoundrels",
+            "tickets":4,
+            "range":[93,96]
+        },
+        {
+            "movie":"Willow",
+            "tickets":4,
+            "range":[97,100]
+        },
+        {
+            "movie":"The Grand Budapest Hotel",
+            "tickets":4,
+            "range":[101,104]
+        },
+        {
+            "movie":"The Village",
+            "tickets":3,
+            "range":[105,107]
+        },
+        {
+            "movie":"Hugo",
+            "tickets":3,
+            "range":[108,110]
+        },
+        {
+            "movie":"Catch me if you can",
+            "tickets":3,
+            "range":[111,113]
+        },
+        {
+            "movie":"The sixth sense",
+            "tickets":3,
+            "range":[114,116]
+        }
+    ],
+    "watchedList":[
+        {
+            "movie":"Ghostbusters",
+            "date":"12-12-21",
+            "age":1984
+        },
+        {
+            "movie":"Scooby-Doo",
+            "date":"1-11-22",
+            "age":1998
+        },
+        {
+            "movie":"The Court Jester",
+            "date":"1-29-22",
+            "age":1955
+        },
+        {
+            "movie":"Casablanca",
+            "date":"2-12-22",
+            "age":1942
+        },
+        {
+            "movie":"Jurassic Park",
+            "date":"2-18-22",
+            "age":1993
+        },
+        {
+            "movie":"The Neverending Story",
+            "date":"3-5-22",
+            "age":1984
+        },
+        {
+            "movie":"Hook",
+            "date":"3-19-22",
+            "age":1991
+        },
+        {
+            "movie":"The Iron Giant",
+            "date":"4-1-22",
+            "age":1999
+        },
+        {
+            "movie":"The Private Eyes",
+            "date":"4-15-22",
+            "age":1980
+        },
+        {
+            "movie":"The Batman",
+            "date":"4-30-22",
+            "age":2022
+        },
+        {
+            "movie":"Hot Fuzz",
+            "date":"5-13-22",
+            "age":2007
+        },
+        {
+            "movie":"The Princess Bride",
+            "date":"5-27-22",
+            "age":1987
+        }
+    ],
+    "silverList":[
+        {
+            "movie":"Big Trouble in Little China",
+            "imdb":"tt0090728",
+            "trailer":"kMxzmGStTHE",
+            "rating":"PG-13",
+            "img":"bigTroubleInLittleChina.jpg",
+            "avalableOn":["Amazon Prime","Itunes","YouTube"]
+        },
+        {
+            "movie":"The Shining",
+            "imdb":"tt0081505",
+            "trailer":"5Cb3ik6zP2I",
+            "rating":"R",
+            "img":"theShining.jpg",
+            "avalableOn":["HBO Max","YouTube","Itunes"]
+        },
+        {
+            "movie":"Fantastic Mr Fox",
+            "imdb":"tt0432283",
+            "trailer":"n2igjYFojUo",
+            "rating":"PG",
+            "img":"fantasticMrFox.jpg",
+            "avalableOn":["Disney +","YouTube","Itunes","Amazon Prime"]
+        },
+        {
+            "movie":"Joker",
+            "imdb":"tt7286456",
+            "trailer":"zAGVQLHvwOY",
+            "rating":"R",
+            "img":"joker.jpg",
+            "avalableOn":["HBO Max","YouTube","Itunes"]
+        },
+        {
+            "movie":"Prince of Egypt",
+            "imdb":"tt0120794",
+            "trailer":"N0Vh65UrBK4&t",
+            "rating":"PG",
+            "img":"princeOfEgypt.jpg",
+            "avalableOn":["YouTube","Itunes"]
+        },
+        {
+            "movie":"The King's Speech",
+            "imdb":"tt1504320",
+            "trailer":"gSw6ei5tdbg",
+            "rating":"R",
+            "img":"kingsSpeech.jpg",
+            "avalableOn":["YouTube","Itunes"]
+        },
+        {
+            "movie":"Pulp Fiction",
+            "imdb":"tt0110912",
+            "trailer":"N0Vh65UrBK4",
+            "rating":"R",
+            "img":"pulpFiction.jpg",
+            "avalableOn":["Amazon Prime","YouTube","Itunes"]
+        },
+        {
+            "movie":"Shrek 2",
+            "imdb":"tt0298148",
+            "trailer":"xBgSfhp5Fxo",
+            "rating":"PG",
+            "img":"shrek2.jpg",
+            "avalableOn":["Amazon Prime","YouTube"]
+        },
+        {
+            "movie":"The Terminator 2",
+            "imdb":"tt0103064",
+            "trailer":"CRRlbK5w8AE",
+            "rating":"R",
+            "img":"terminator2.jpg",
+            "avalableOn":["HBO Max","YouTube","Amazon Prime"]
+        },
+        {
+            "movie":"The Guy Who Didn't Like Musicals",
+            "imdb":"tt9509866",
+            "trailer":"BbVe8wMZXRA",
+            "rating":"NR",
+            "img":"TGWDLM.jpg",
+            "avalableOn":["YouTube"]
+        }
+    ],
+    "bronzeList":[
+        {
+            "movie":"The Dark Knight",
+            "img":"darkKnight.jpg",
+            "imdb":"tt0468569",
+            "trailer":"EXeTwQWrcwY"
+        },
+        {
+            "movie":"The Changeling 1980",
+            "img":"theChangling.jpg",
+            "imdb":"tt0080516",
+            "trailer":"xTzgXVosQOU"
+        },
+        {
+            "movie":"Arrival",
+            "img":"arrival.jpg",
+            "imdb":"tt2543164",
+            "trailer":"tFMo3UJ4B4g"
+        },
+        {
+            "movie":"The Italian Job 2003",
+            "img":"theitalianjob.jpg",
+            "imdb":"tt0317740",
+            "trailer":"uw6jY3VuOcI"
+        },
+        {
+            "movie":"The Fall",
+            "img":"thefall.jpg",
+            "imdb":"tt0460791",
+            "trailer":"rEi-v6aJD7Q&t"
+        }
+    ]
+    
+}

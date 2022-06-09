@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            width:200px;
+            height: 300px;
+        }
+        button{display: block;}
+        img{display: none;}
+        .dispImg{display: block;}
+    </style>
+</head>
+<body>
+    <h1 id="title">this movie is fun</h1>
+    <button id="toggle">Show Movie</button>
+    <img id="image" src="images/treasurePlanet.jpg" alt="image isnt working">
+    <script type="text/javascript">
+    const titleEL= document.getElementById("title")
+    const imgEl = document.getElementById("image")
+    const toggleEL = document.getElementById("toggle")
+    toggleEL.addEventListener("click",()=>{
+        imgEl.classList.toggle('dispImg')
+    })
+    </script>
+</body>
+</html>

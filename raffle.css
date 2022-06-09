@@ -1,0 +1,75 @@
+h1, h3{
+    margin: 0;
+}
+button{
+    width: fit-content;
+    margin: 0px 45px;
+}
+.container:nth-child(1){
+    font-size: 15px;
+    padding-right: 10px;
+    flex-direction:column;
+}
+.result {
+    width: fit-content;
+    margin: 10px 0px;
+}
+.namlist{
+    list-style: none;
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+}
+.container{
+    display: flex;
+    margin:0;
+    color: black;
+}
+.lists{
+    font-size: 30px;
+    list-style: none;
+}
+#raffle-tickets{
+    padding-left:20px ;
+}
+.list-display{
+    margin-left: auto;
+    margin-right: auto;
+    width: 18em;
+}
+.movies{
+    width: 12em;
+}
+.draResult{
+    text-align: center;
+    width: 300px;
+    background-color: rgb(171, 171, 171);
+    font-size: 30px;
+}
+/* style.css */
+h1{
+    width: 17em;    
+    margin-left:auto;
+    margin-right: auto;
+}
+.nav-bar{
+    margin-left:auto;
+    margin-right: auto;
+    padding: 5px;
+    display: flex;
+    width: 700px;
+    height: 30px;
+    list-style: none;
+    border-radius: 4px;
+    background-color: #800080;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-bar>a{
+    text-decoration: none;
+    text-align: center;
+    margin: 0 10px;
+    font-family: "Inter";
+    color: white;
+    text-decoration: none;
+}
