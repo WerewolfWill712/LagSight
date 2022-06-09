@@ -1,0 +1,142 @@
+
+h1{
+    width: 17em;    
+    margin-left:auto;
+    margin-right: auto;
+}
+.nav-bar{
+    margin-left:auto;
+    margin-right: auto;
+    padding: 5px;
+    display: flex;
+    width: 700px;
+    height: 30px;
+    list-style: none;
+    border-radius: 4px;
+    background-color: #800080;
+    align-items: center;
+    justify-content: space-between;
+}
+.image{
+    width: 200px;
+    height: 300px;
+    margin: 5px 10px;
+    border-style:solid;
+    border-width:4px;
+    border-radius: 4px;
+    border-color: black;
+    display: flex;
+}
+.result{
+    margin: 0 28%;
+    padding: 0 10px;
+    width:640px;
+    height:400px;
+}
+.result > div{
+    width: 640px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 10px;
+}
+.title{
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter';
+    margin: 20px 20px;
+   
+}
+.nav-bar>a{
+    text-decoration: none;
+    text-align: center;
+    margin: 0 10px;
+    font-family: "Inter";
+    color: white;
+    text-decoration: none;
+}
+.nav-bar>button{
+    border: none;
+    color: white;
+    background-color: #800080;
+    cursor: pointer;
+    font-size: 17px;
+}
+.info{
+    margin-left: auto;
+    margin-right: auto;
+    width: 16em;
+    justify-content: space-evenly;
+    display: flex;
+}
+#bronzelist, #silverlist, #watchedlist, #movielist{
+    height: 420px;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.indivnam{
+    display: flex;
+    flex-direction: column;
+    width: 170px;
+    border: black solid 1px;
+    border-radius: 2px;
+    text-align: center;
+    padding: 1px;
+    margin:2.5px 0
+}
+.indivnam:hover{
+    cursor: pointer;
+    background-color:rgb(220, 220, 220) ;
+}
+.indivnam>a{
+    color: rgb(0, 0, 0);
+}
+
+.defClass{
+    display: none;
+}
+.togClass{
+    display: block;
+}
+.togClass>img{
+    width: 170px;
+}
+.togClass>a{
+    padding: 0 3px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: black;
+    border: black solid 1px;
+}
+#title{
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+}
+.name{
+ font-weight: 600;
+}
+.date{
+    text-decoration: underline;
+}
+#copy-btn{
+    margin: 5px 30%;
+}
+.hidden{
+    width: 15em;
+    background-color: black;
+}
+.sur-list{
+    margin-left: auto;
+    margin-right: auto;
+    width: 16em;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+}
