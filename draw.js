@@ -52,7 +52,10 @@ drawMainBtn.addEventListener("click",()=>{
                 lotNum.push(randGen[i]+1)
             }
             navigator.clipboard.writeText(
-                `#${[lotNum[imgNum]]}**${cpyArr[imgNum]}**`
+                `#${[lotNum[imgNum]]}**${cpyArr[imgNum]}**
+                > Rating: ${movies.silverList[randGen[imgNum]].rating}
+                > Content Guide: https://www.imdb.com/title/${movies.movielst[randGen[imgNum]].imdb}/parentalguide
+                > Trailer: https://www.youtube.com/watch?v=${movies.movielst[randGen[imgNum]].trailer}`
                 ) 
         }
 

@@ -20,6 +20,8 @@ fetch('movies.json')
             <span>${movies.movielst[i].movie}</span>
             <div id="movTog${i}" class="defClass">
             <img src="${httpServer}/${movies.movielst[i].img}">
+            <a href="https://www.imdb.com/title/${movies.movielst[i].imdb}/parentalguide" target="_blank">Content Guide</a>
+            <a href="https://www.youtube.com/watch?v=${movies.movielst[i].trailer}" target="_blank">Trailer</a>
             </div>            
         </div>`   
         }

@@ -2,61 +2,97 @@
         {  
             "movie":"The Help",
             "img":"thehelp.jpg",
+            "imdb":"tt1454029",
+            "trailer":"aT9eWGjLv6s",
+            "rating":"PG-13",
             "age":2011
         },
         {
             "movie":"Army of Darkness",
             "img":"Army of Darkness.jpg",
+            "imdb":"tt0106308",
+            "trailer":"li_O7k-3ZMU",
+            "rating":"R",
             "age":1992
         },
         {
-            "movie":"Mulan 1988",
+            "movie":"Mulan 1998",
             "img":"mulan.jpg",
+            "imdb":"tt0120762",
+            "trailer":"HKH7_n425Ss",
+            "rating":"G",
             "age":1998
         },
         {
             "movie":"Clear and present danger",
             "img":"clearAndPresentDanger.jpg",
+            "imdb":"tt0109444",
+            "trailer":"TuYb6ZNQaZo",
+            "rating":"PG-13",
             "age":1994
         },
         {
             "movie":"The Prestige",
             "img":"theprestige.jpg",
+            "imdb":"tt0482571",
+            "trailer":"RLtaA9fFNXU",
+            "rating":"PG-13",
             "age":2006
         },
         {
             "movie":"Treasure Planet",
             "img":"treasurePlanet.jpg",
+            "imdb":"tt0133240",
+            "trailer":"tt0133240",
+            "rating":"PG",
             "age":2002
         },
         {
             "movie":"Groundhogs Day",
             "img":"groundhogs day.jpg",
+            "imdb":"tt0107048",
+            "trailer":"GncQtURdcE4",
+            "rating":"PG",
             "age":1993
         },
         {
             "movie":"The Truman Show",
             "img":"the truman show.jpg",
+            "imdb":"tt0120382",
+            "trailer":"dlnmQbPGuls",
+            "rating":"PG",
             "age":1998
         },
         {
             "movie":"Master and Commander",
             "img":"masterAndCommander.jpg",
+            "imdb":"tt0311113",
+            "trailer":"tHTHCNYiiHk",
+            "rating":"PG-13",
             "age":2003
         },
         {
             "movie":"Twister",
             "img":"twister.jpg",
+            "imdb":"tt0117998",
+            "trailer":"IeokJIGsAyM",
+            "rating":"PG-13",
             "age":1996
         },
         {
             "movie":"The Count of Monte Christo",
             "img":"the count of monte cristo.jpg",
+            "imdb":"tt0245844",
+            "trailer":"qesn8pV9yu8",
+            "rating":"PG-13",
             "age":2002
         },
         {
             "movie":"Young Sherlock Holmes",
             "img":"youngSherHolmes.jpg",
+            "imdb":"tt0090357",
+            "trailer":"PVTHS6vyOZw",
+            "rating":"PG-13",
             "age":1985
         }
     ],
