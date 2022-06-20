@@ -1,0 +1,1 @@
+i use vscode live server and http-server to show images use "http-server ./" inside the images folder then refresh the page
