@@ -6,7 +6,7 @@ const movieListEl = document.getElementById("movielist")
 const watchedListEl = document.getElementById("watchedlist")
 const silverListEl = document.getElementById("silverlist")
 const bronzeListEl = document.getElementById("bronzelist")
-const httpServer = "http://127.0.0.1:8080"
+//const httpServer = "http://127.0.0.1:8080"
 fetch('movies.json')
 .then(Response=>Response.json())
 .then(movies =>{
@@ -19,7 +19,7 @@ fetch('movies.json')
         <div id="movlst${i}" class="indivnam">
             <span>${movies.movielst[i].movie}</span>
             <div id="movTog${i}" class="defClass">
-            <img src="${httpServer}/${movies.movielst[i].img}">
+            <img src="images/${movies.movielst[i].img}">
             <a href="https://www.imdb.com/title/${movies.movielst[i].imdb}/parentalguide" target="_blank">Content Guide</a>
             <a href="https://www.youtube.com/watch?v=${movies.movielst[i].trailer}" target="_blank">Trailer</a>
             </div>            
@@ -36,7 +36,7 @@ fetch('movies.json')
             <div id="silverFull${i}"class="indivnam">
                 <span id=item${i}>${movies.silverList[i].movie}</span>
                 <div id="silvTog${i}" class="defClass">
-                <img src="${httpServer}/${movies.silverList[i].img}">
+                <img src="images/${movies.silverList[i].img}">
                 <a href="https://www.imdb.com/title/${movies.silverList[i].imdb}/parentalguide" target="_blank">Content Guide</a>
                 <a href="https://www.youtube.com/watch?v=${movies.silverList[i].trailer}" target="_blank">Trailer</a>
                 </div>
@@ -47,7 +47,7 @@ fetch('movies.json')
             <div id="bronzeFull${i}"class="indivnam">
                 <span id=item${i}>${movies.bronzeList[i].movie}</span>
                 <div id="bronzTog${i}" class="defClass">
-                <img src="${httpServer}/${movies.bronzeList[i].img}">
+                <img src="images/${movies.bronzeList[i].img}">
                 <a href="https://www.imdb.com/title/${movies.bronzeList[i].imdb}/parentalguide" target="_blank">Content Guide</a>
                 <a href="https://www.youtube.com/watch?v=${movies.bronzeList[i].trailer}" target="_blank">Trailer</a>
                 </div>

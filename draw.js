@@ -29,7 +29,7 @@ drawMainBtn.addEventListener("click",()=>{
         let resultimg=""
         for (let i = 0; i <res[0].length; i++) {
             resultNam+=`<p class="title">${res[0][i]}</p>`;
-            resultimg+=`<img id="img${[i]}" class="image" src="${httpServer}/${res[1][i]}">`
+            resultimg+=`<img id="img${[i]}" class="image" src="images/${res[1][i]}">`
         }
 
         let cpyArr = []
@@ -106,7 +106,7 @@ drawSilverBtn.addEventListener("click",()=>{
         for (let i = 0; i <res[0].length; i++) {
             resultNam+=`<p class="title">${res[0][i]}</p>`;
             resultimg+=`
-            <img id="img${[i]}" class="image" src="${httpServer}/${res[1][i]}">`
+            <img id="img${[i]}" class="image" src="images/${res[1][i]}">`
         }
 
         let cpyArr = []
@@ -181,7 +181,7 @@ drawSilverBtn.addEventListener("click",()=>{
         for (let i = 0; i <res[0].length; i++) {
             resultNam+=`<p class="title">${res[0][i]}</p>`;
             resultimg+=`
-            <img id="img${[i]}" class="image" src="${httpServer}/${res[1][i]}">`
+            <img id="img${[i]}" class="image" src="images/${res[1][i]}">`
         }
 
         let cpyArr = []
