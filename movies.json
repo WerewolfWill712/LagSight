@@ -98,6 +98,11 @@
     ],
     "raffleList":[
         {
+            "movie":"Stand By Me",
+            "tickets":8,
+            "range":[117,124]
+        },
+        {
             "movie":"Bridge in the river Kwai",
             "tickets":7,
             "range":[1,7]
@@ -116,6 +121,11 @@
             "movie":"Howls Moving Castle",
             "tickets":6,
             "range":[22,27]
+        },
+        {
+            "movie":"Rain Man",
+            "tickets":5,
+            "range":[125,129]
         },
         {
             "movie":"Secondhand Lions",
@@ -161,6 +171,11 @@
             "movie":"Edge of Tomorrow",
             "tickets":5,
             "range":[68,72]
+        },
+        {
+            "movie":"Sneakers",
+            "tickets":4,
+            "range":[130,133]
         },
         {
             "movie":"If I Stay",
@@ -221,6 +236,21 @@
             "movie":"The sixth sense",
             "tickets":3,
             "range":[114,116]
+        },
+        {
+            "movie":"The Terminal",
+            "tickets":2,
+            "range":[134,135]
+        },
+        {
+            "movie":"The Pelican Brief",
+            "tickets":2,
+            "range":[136,137]
+        },
+        {
+            "movie":"Hunt for the Wilderpeople",
+            "tickets":2,
+            "range":[138,139]
         }
     ],
     "watchedList":[
