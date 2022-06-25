@@ -25,6 +25,13 @@ body{
     grid-template-columns: 200px 200px 200px;
     grid-gap: 10px;
 }
+.titles{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
 h1{
     width: 17em;
     font-size: 2.7em;
