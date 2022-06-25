@@ -1,4 +1,4 @@
-h1, h3{
+h2, h3{
     margin: 0;
 }
 button{
@@ -48,7 +48,8 @@ button{
 }
 /* style.css */
 h1{
-    width: 17em;    
+    width: 17em;
+    font-size: 2.7em;    
     margin-left:auto;
     margin-right: auto;
 }
@@ -57,8 +58,8 @@ h1{
     margin-right: auto;
     padding: 5px;
     display: flex;
-    width: 700px;
-    height: 30px;
+    width: 1000px;
+    height: 40px;
     list-style: none;
     border-radius: 4px;
     background-color: #800080;
@@ -70,6 +71,7 @@ h1{
     text-align: center;
     margin: 0 10px;
     font-family: "Inter";
+    font-size: 1.5em;
     color: white;
     text-decoration: none;
 }

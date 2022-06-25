@@ -2,11 +2,6 @@ body{
     
     height:100%
 }
-h1{
-    margin-left: auto;
-    margin-right: auto;
-    width: 17em;
-}
 .image{
     width: 200px;
     height: 300px;
@@ -30,15 +25,11 @@ h1{
     grid-template-columns: 200px 200px 200px;
     grid-gap: 10px;
 }
-.title{
+h1{
+    width: 17em;
+    font-size: 2.7em;
     margin-left:auto;
-    margin-right:auto;
-    text-align: center;
-    width: 200px;
-    font-size: 20px;
-    font-weight: 600;
-    font-family: 'Inter';
-   
+    margin-right: auto;
 }
 .nav-bar{
     margin: 5px 0;
@@ -46,8 +37,8 @@ h1{
     margin-right: auto;
     padding: 5px;
     display: flex;
-    width: 580px;
-    height: 30px;
+    width: 1000px;
+    height: 40px;
     list-style: none;
     border-radius: 4px;
     background-color: #800080;
@@ -59,6 +50,7 @@ h1{
     text-align: center;
     margin: 0 10px;
     font-family: "Inter";
+    font-size: 1.5em;
     color: white;
     text-decoration: none;
 }

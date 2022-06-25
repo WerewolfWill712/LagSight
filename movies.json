@@ -73,18 +73,27 @@
         },
         {
             "movie":"Stand By Me",
-            "imdb":"TBD",
-            "trailer":"TBD"
+            "img":"Stand by me.jpg",
+            "imdb":"tt0092005",
+            "trailer":"jaiZ6ZQoO-Y",
+            "rating":"R",
+            "age":1986
         },
         {
             "movie":"If I Stay",
-            "imdb":"TBD",
-            "trailer":"TBD"
+            "img":"ifIStay.jpg",
+            "imdb":"tt1355630",
+            "trailer":"rMp896hfp74",
+            "rating":"PG-13",
+            "age":2014
         },
         {
             "movie":"Hunt for the Wilderpeople",
-            "imdb":"TBD",
-            "trailer":"TBD"
+            "img":"huntforwilderpeople.jpg",
+            "imdb":"tt4698684",
+            "trailer":"dPaU4Gymt3E",
+            "rating":"PG-13",
+            "age":2016
         }
     ],
     "raffleList":[
