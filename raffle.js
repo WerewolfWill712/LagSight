@@ -31,11 +31,19 @@ fetch('movies.json')
         for (let j = 0; j < randGen.length; j++) {           
             for(let i=0 ; i<movies.raffleList.length ; i++){
                 if (movies.raffleList[i].range[0]<=randGen[j]&&movies.raffleList[i].range[1]>=randGen[j]){
-                    resRender+=`<div class="draResult">${movies.raffleList[i].movie}</div>`   
+                    resRender+=`<div id="result${j}" class="draResult">${movies.raffleList[i].movie}</div>`   
                 }
             }
         }
 
         resultEl.innerHTML=resRender
+        let txtcopy=[]
+        for(let i=0;i<3;i++){
+            txtcopy.push(`{"movie":"${document.getElementById("result"+i).textContent}"}`)
+        }
+        console.log(txtcopy);
+        navigator.clipboard.writeText(
+            `${txtcopy[0]},${txtcopy[1]},${txtcopy[2]}`
+        )
     } )
 })
