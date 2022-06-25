@@ -72,17 +72,17 @@
             "age":1985
         },
         {
-            "movie":"TBD",
+            "movie":"Stand By Me",
             "imdb":"TBD",
             "trailer":"TBD"
         },
         {
-            "movie":"TBD",
+            "movie":"If I Stay",
             "imdb":"TBD",
             "trailer":"TBD"
         },
         {
-            "movie":"TBD",
+            "movie":"Hunt for the Wilderpeople",
             "imdb":"TBD",
             "trailer":"TBD"
         }
@@ -91,7 +91,8 @@
         {
             "movie":"Stand By Me",
             "tickets":8,
-            "range":[117,124]
+            "range":[117,124],
+            "drawn":true
         },
         {
             "movie":"Bridge in the river Kwai",
@@ -171,7 +172,8 @@
         {
             "movie":"If I Stay",
             "tickets":4,
-            "range":[73,76]
+            "range":[73,76],
+            "drawn":true
         },
         {
             "movie":"JoJo Rabbit",
@@ -241,7 +243,8 @@
         {
             "movie":"Hunt for the Wilderpeople",
             "tickets":2,
-            "range":[138,139]
+            "range":[138,139],
+            "drawn":true
         }
     ],
     "watchedList":[
