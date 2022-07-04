@@ -196,7 +196,7 @@ h1{
     width: 1224px;
 }
 .event>a>img:hover{
-    opacity: 95%;
+    cursor:auto;
 }
 
 /* alert */
