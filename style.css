@@ -103,7 +103,19 @@ h1{
 .indivnam>a{
     color: rgb(0, 0, 0);
 }
-
+/* .indivnam:hover>.defClass{
+    display: block;
+}
+.indivnam:hover>.defClass>img{
+    width: 250px;
+}
+.indivnam:hover>.defClass>a{
+    padding: 0 3px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: black;
+    border: black solid 1px;
+} */
 .defClass{
     display: none;
 }
