@@ -210,6 +210,7 @@ h1{
     height: fit-content;
 }
 .h1alt{
+    display: none;
     margin: 0;
     width: fit-content;
     text-align: center;
