@@ -1,5 +1,4 @@
 const movieNamEl = document.getElementById("movie-nam"),
-movieImgEl = document.getElementById("movie-img"),
 drawSilverBtn = document.getElementById("draw-silver"),
 drawRaffleBtn = document.getElementById("draw-raffle"),
 drawMainBtn = document.getElementById("draw"),
@@ -12,8 +11,7 @@ drawBronzeBtn.addEventListener("click",()=>{renderDraw('bronzeList')})
 
 function draw(list) {
     let randGen=[],
-    namRes='',
-    imgRes=''
+    namRes=''
     while (randGen.length<3) {
         let candInt=Math.floor(Math.random()*(list.length-1))
         if(randGen.indexOf(candInt)===-1){
@@ -23,11 +21,9 @@ function draw(list) {
     for (let i = 0; i < randGen.length; i++) {
         const movie = list[randGen[i]].movie,
         img = list[randGen[i]].img
-        namRes+=`<p id="nam${[i]}"class="titles">${movie}</p>\r\n`
-        imgRes+=`<img id="img${[i]}" class="image" src="images/${img}">\r\n`
+        namRes+=`<div class="items"><img id="img${[i]}" class="image" src="images/${img}">\r\n<p id="nam${[i]}"class="titles">${movie}</p>\r\n</div>`
     }
     movieNamEl.innerHTML=namRes
-    movieImgEl.innerHTML=imgRes
     const img0El=document.getElementById("img0"),
     img1El=document.getElementById("img1"),
     img2El=document.getElementById("img2")
