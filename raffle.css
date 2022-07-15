@@ -1,77 +1,46 @@
-h2, h3{
+body, h1, h2, a,p{
+    font-family: 'inter';
+    text-align: center;
     margin: 0;
-}
-button{
-    width: fit-content;
-    margin: 0px 45px;
-}
-.container:nth-child(1){
-    font-size: 15px;
-    padding-right: 10px;
-    flex-direction:column;
-}
-.result {
-    width: fit-content;
-    margin: 10px 0px;
-}
-.namlist{
-    list-style: none;
-    margin: 0;
-    margin-top: 10px;
-    padding: 0;
 }
 .container{
+
+    margin: 1rem auto 0 auto;
     display: flex;
-    margin:0;
-    color: black;
+    justify-content: center;
+    font-size: 1.5rem;
 }
-.lists{
-    font-size: 30px;
-    list-style: none;
+.list{
+    max-width: fit-content;
+    max-height: 37rem;
+    text-align: end;
+    overflow-y: scroll;
 }
-#raffle-tickets{
-    padding-left:20px ;
-}
-.list-display{
-    margin-left: auto;
-    margin-right: auto;
-    width: 18em;
+.list>h3{
+    margin: 0;
 }
 .movies{
-    width: 12em;
+    text-decoration: underline;
+    padding: .5rem 0;
 }
-.draResult{
-    text-align: center;
-    width: 300px;
-    background-color: rgb(171, 171, 171);
-    font-size: 30px;
-}
-/* style.css */
-h1{
-    width: 17em;
-    font-size: 2.7em;    
-    margin-left:auto;
-    margin-right: auto;
-}
-.nav-bar{
-    margin-left:auto;
-    margin-right: auto;
-    padding: 5px;
+.result{
     display: flex;
-    width: 1000px;
-    height: 40px;
-    list-style: none;
-    border-radius: 4px;
-    background-color: #800080;
-    align-items: center;
-    justify-content: space-between;
+    flex-direction: column;
 }
-.nav-bar>a{
-    text-decoration: none;
+.result>span{
+    padding: .2rem 0;
+}
+.raffle{
     text-align: center;
-    margin: 0 10px;
-    font-family: "Inter";
-    font-size: 1.5em;
-    color: white;
-    text-decoration: none;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.raffle>h2{
+    font-size: 1.5rem;
+}
+.raffle>button{
+    font-size: 1.2rem;
+    max-width: 5rem;
 }

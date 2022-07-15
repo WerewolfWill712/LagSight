@@ -1,8 +1,8 @@
 // elements for each list
-const movieListEl = document.getElementById("movielist")
-const watchedListEl = document.getElementById("watchedlist")
-const silverListEl = document.getElementById("silverlist")
-const bronzeListEl = document.getElementById("bronzelist")
+const movieListEl = document.getElementById("movielist"),
+watchedListEl = document.getElementById("watchedlist"),
+silverListEl = document.getElementById("silverlist"),
+bronzeListEl = document.getElementById("bronzelist")
 //const httpServer = "http://127.0.0.1:8080"
 fetch('movies.json')
 .then(Response=>Response.json())

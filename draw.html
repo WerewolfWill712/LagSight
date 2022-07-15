@@ -2,35 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="draw.css">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="draw2.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter">
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
     <title>Draw!</title>
 </head>
 <body>
-    <h1>The Lightweavers Appreciation Guild</h1>
-    <ul class="nav-bar">
+    <div class="header">
+        <h1>The Lightweavers Appreciation Guild</h1>
+    </div>
+    <div class="nav-bar">
         <a href="#">How It Works</a>
         <a href="raffle.html">Raffle List</a>
-        <a href="index.html">Home</a>
+        <a href="home.html">Home</a>
         <a href="#">Movie Suggestions</a>
         <a href="#">Movie Survey</a>
-    </ul>
-    <ul class="draw-buttons">
+    </div>
+    <div class="draw-buttons">
         <button id="draw-silver">Silver List</button>
         <button id="draw-bronze">Bronze List</button>
         <button id="draw">Main List</button>
         <button id="copy">Copy Result</button>
-    </ul>
-    <div id="copy-btn"></div>
-    <div class="result">
-        <div class="images" id="movie-img"></div>
-        <div class="titles" id="movie-nam"></div>
     </div>
+    <div id="copy-btn"></div>
+    <div class="result" id="movie-nam"></div>
+
     
 </body>
     
-    <script src="draw.js"></script>
+    <script src="draw2.js"></script>
 </html>
