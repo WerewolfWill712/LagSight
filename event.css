@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+}
+.event>h1{
+    text-align: center;
+}
+.event-img{
+    display: flex;
+    width:max-content;
+    margin: 0 auto;
+}
+.event-img>span{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: xx-large;
+}
+.event-img>img{
+    margin: 0 1rem;
+    width: 400px;
+    aspect-ratio: 2/3;
+    box-shadow: -1px 4px 32px -5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 4px 32px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 32px -5px rgba(0,0,0,0.75);
+}
+.eventnams{
+    margin: 0 auto;
+    width: max-content;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.eventnams>h2{
+    margin: 1rem;
+    width: 400px;
+}

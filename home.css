@@ -10,7 +10,7 @@ p {
 
 .alert {
     /* when announced*/
-    display: none;
+    display: block;
     /* change above to block*/
 }
 
