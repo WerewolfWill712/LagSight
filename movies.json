@@ -1,500 +1,490 @@
-{   "movielst":[
-        {  
-            "movie":"The Help",
-            "img":"thehelp.jpg",
-            "imdb":"tt1454029",
-            "trailer":"aT9eWGjLv6s",
-            "rating":"PG-13",
-            "age":2011,
-            "ID":"M0"
+{
+    "movielst": [
+        {
+            "movie": "The Help",
+            "img": "thehelp.jpg",
+            "imdb": "tt1454029",
+            "trailer": "aT9eWGjLv6s",
+            "rating": "PG-13",
+            "age": 2011,
+            "ID": "M0"
         },
         {
-            "movie":"Army of Darkness",
-            "img":"Army of Darkness.jpg",
-            "imdb":"tt0106308",
-            "trailer":"li_O7k-3ZMU",
-            "rating":"R",
-            "age":1992,
-            "ID":"M1"
+            "movie": "Army of Darkness",
+            "img": "Army of Darkness.jpg",
+            "imdb": "tt0106308",
+            "trailer": "li_O7k-3ZMU",
+            "rating": "R",
+            "age": 1992,
+            "ID": "M1"
         },
         {
-            "movie":"Clear and present danger",
-            "img":"clearAndPresentDanger.jpg",
-            "imdb":"tt0109444",
-            "trailer":"TuYb6ZNQaZo",
-            "rating":"PG-13",
-            "age":1994,
-            "ID":"M2"
+            "movie": "Clear and present danger",
+            "img": "clearAndPresentDanger.jpg",
+            "imdb": "tt0109444",
+            "trailer": "TuYb6ZNQaZo",
+            "rating": "PG-13",
+            "age": 1994,
+            "ID": "M2"
         },
         {
-            "movie":"The Prestige",
-            "img":"theprestige.jpg",
-            "imdb":"tt0482571",
-            "trailer":"RLtaA9fFNXU",
-            "rating":"PG-13",
-            "age":2006,
-            "ID":"M3"
+            "movie": "The Prestige",
+            "img": "theprestige.jpg",
+            "imdb": "tt0482571",
+            "trailer": "RLtaA9fFNXU",
+            "rating": "PG-13",
+            "age": 2006,
+            "ID": "M3"
         },
         {
-            "movie":"Groundhogs Day",
-            "img":"groundhogs day.jpg",
-            "imdb":"tt0107048",
-            "trailer":"GncQtURdcE4",
-            "rating":"PG",
-            "age":1993,
-            "ID":"M4"
+            "movie": "Groundhogs Day",
+            "img": "groundhogs day.jpg",
+            "imdb": "tt0107048",
+            "trailer": "GncQtURdcE4",
+            "rating": "PG",
+            "age": 1993,
+            "ID": "M4"
         },
         {
-            "movie":"Master and Commander",
-            "img":"masterAndCommander.jpg",
-            "imdb":"tt0311113",
-            "trailer":"tHTHCNYiiHk",
-            "rating":"PG-13",
-            "age":2003,
-            "ID":"M5"
+            "movie": "Master and Commander",
+            "img": "masterAndCommander.jpg",
+            "imdb": "tt0311113",
+            "trailer": "tHTHCNYiiHk",
+            "rating": "PG-13",
+            "age": 2003,
+            "ID": "M5"
         },
         {
-            "movie":"Twister",
-            "img":"twister.jpg",
-            "imdb":"tt0117998",
-            "trailer":"IeokJIGsAyM",
-            "rating":"PG-13",
-            "age":1996,
-            "ID":"M6"
+            "movie": "Twister",
+            "img": "twister.jpg",
+            "imdb": "tt0117998",
+            "trailer": "IeokJIGsAyM",
+            "rating": "PG-13",
+            "age": 1996,
+            "ID": "M6"
         },
         {
-            "movie":"The Count of Monte Christo",
-            "img":"the count of monte cristo.jpg",
-            "imdb":"tt0245844",
-            "trailer":"qesn8pV9yu8",
-            "rating":"PG-13",
-            "age":2002,
-            "ID":"M7"
+            "movie": "The Count of Monte Christo",
+            "img": "the count of monte cristo.jpg",
+            "imdb": "tt0245844",
+            "trailer": "qesn8pV9yu8",
+            "rating": "PG-13",
+            "age": 2002,
+            "ID": "M7"
         },
         {
-            "movie":"Young Sherlock Holmes",
-            "img":"youngSherHolmes.jpg",
-            "imdb":"tt0090357",
-            "trailer":"PVTHS6vyOZw",
-            "rating":"PG-13",
-            "age":1985,
-            "ID":"M8"
+            "movie": "Young Sherlock Holmes",
+            "img": "youngSherHolmes.jpg",
+            "imdb": "tt0090357",
+            "trailer": "PVTHS6vyOZw",
+            "rating": "PG-13",
+            "age": 1985,
+            "ID": "M8"
         },
         {
-            "movie":"Stand By Me",
-            "img":"Stand by me.jpg",
-            "imdb":"tt0092005",
-            "trailer":"jaiZ6ZQoO-Y",
-            "rating":"R",
-            "age":1986,
-            "ID":"M9"
+            "movie": "Stand By Me",
+            "img": "Stand by me.jpg",
+            "imdb": "tt0092005",
+            "trailer": "jaiZ6ZQoO-Y",
+            "rating": "R",
+            "age": 1986,
+            "ID": "M9"
         },
         {
-            "movie":"If I Stay",
-            "img":"ifIStay.jpg",
-            "imdb":"tt1355630",
-            "trailer":"rMp896hfp74",
-            "rating":"PG-13",
-            "age":2014,
-            "ID":"M10"
+            "movie": "If I Stay",
+            "img": "ifIStay.jpg",
+            "imdb": "tt1355630",
+            "trailer": "rMp896hfp74",
+            "rating": "PG-13",
+            "age": 2014,
+            "ID": "M10"
         },
         {
-            "movie":"Hunt for the Wilderpeople",
-            "img":"huntforwilderpeople.jpg",
-            "imdb":"tt4698684",
-            "trailer":"dPaU4Gymt3E",
-            "rating":"PG-13",
-            "age":2016,
-            "ID":"M11"
+            "movie": "Hunt for the Wilderpeople",
+            "img": "huntforwilderpeople.jpg",
+            "imdb": "tt4698684",
+            "trailer": "dPaU4Gymt3E",
+            "rating": "PG-13",
+            "age": 2016,
+            "ID": "M11"
         }
     ],
-    "raffleList":[
+    "raffleList": [
         {
-            "movie":"Stand By Me",
-            "tickets":8,
-            "range":[117,124],
-            "drawn":true
+            "movie": "Bridge in the river Kwai",
+            "tickets": 7
         },
         {
-            "movie":"Bridge in the river Kwai",
-            "tickets":7,
-            "range":[1,7]
+            "movie": "Princess Mononoke",
+            "tickets": 7
         },
         {
-            "movie":"Princess Mononoke",
-            "tickets":7,
-            "range":[8,14]
+            "movie": "Shrek",
+            "tickets": 7
         },
         {
-            "movie":"Shrek",
-            "tickets":7,
-            "range":[15,21]
+            "movie": "Howls Moving Castle",
+            "tickets": 6
         },
         {
-            "movie":"Howls Moving Castle",
-            "tickets":6,
-            "range":[22,27]
+            "movie": "Rain Man",
+            "tickets": 5
         },
         {
-            "movie":"Rain Man",
-            "tickets":5,
-            "range":[125,129]
+            "movie": "Secondhand Lions",
+            "tickets": 5
         },
         {
-            "movie":"Secondhand Lions",
-            "tickets":5,
-            "range":[28,32]
+            "movie": "Shawshank Redemption",
+            "tickets": 5
         },
         {
-            "movie":"Shawshank Redemption",
-            "tickets":5,
-            "range":[33,37]
+            "movie": "Men in Tights",
+            "tickets": 5
         },
         {
-            "movie":"Men in Tights",
-            "tickets":5,
-            "range":[38,42]
+            "movie": "Scott Pilgrim vs the World",
+            "tickets": 5
         },
         {
-            "movie":"Scott Pilgrim vs the World",
-            "tickets":5,
-            "range":[43,47]
+            "movie": "Toy Story 4",
+            "tickets": 5
         },
         {
-            "movie":"Toy Story 4",
-            "tickets":5,
-            "range":[48,52]
+            "movie": "Fargo",
+            "tickets": 5
         },
         {
-            "movie":"Fargo",
-            "tickets":5,
-            "range":[53,57]
+            "movie": "Dune",
+            "tickets": 5
         },
         {
-            "movie":"Dune",
-            "tickets":5,
-            "range":[58,62]
+            "movie": "12 angry men",
+            "tickets": 5
         },
         {
-            "movie":"12 angry men",
-            "tickets":5,
-            "range":[63,67]
+            "movie": "Edge of Tomorrow",
+            "tickets": 5
         },
         {
-            "movie":"Edge of Tomorrow",
-            "tickets":5,
-            "range":[68,72]
+            "movie": "Sneakers",
+            "tickets": 4
         },
         {
-            "movie":"Sneakers",
-            "tickets":4,
-            "range":[130,133]
+            "movie": "JoJo Rabbit",
+            "tickets": 4
         },
         {
-            "movie":"If I Stay",
-            "tickets":4,
-            "range":[73,76],
-            "drawn":true
+            "movie": "Gladiator",
+            "tickets": 4
         },
         {
-            "movie":"JoJo Rabbit",
-            "tickets":4,
-            "range":[77,80]
+            "movie": "The Librarian",
+            "tickets": 4
         },
         {
-            "movie":"Gladiator",
-            "tickets":4,
-            "range":[81,84]
+            "movie": "The Scarlett Pimpernel",
+            "tickets": 4
         },
         {
-            "movie":"The Librarian",
-            "tickets":4,
-            "range":[85,88]
+            "movie": "Dirty Rotten Scoundrels",
+            "tickets": 4
         },
         {
-            "movie":"The Scarlett Pimpernel",
-            "tickets":4,
-            "range":[89,92]
+            "movie": "Willow",
+            "tickets": 4
         },
         {
-            "movie":"Dirty Rotten Scoundrels",
-            "tickets":4,
-            "range":[93,96]
+            "movie": "The Grand Budapest Hotel",
+            "tickets": 4
         },
         {
-            "movie":"Willow",
-            "tickets":4,
-            "range":[97,100]
+            "movie": "The Village",
+            "tickets": 3
         },
         {
-            "movie":"The Grand Budapest Hotel",
-            "tickets":4,
-            "range":[101,104]
+            "movie": "Hugo",
+            "tickets": 3
         },
         {
-            "movie":"The Village",
-            "tickets":3,
-            "range":[105,107]
+            "movie": "Catch me if you can",
+            "tickets": 3
         },
         {
-            "movie":"Hugo",
-            "tickets":3,
-            "range":[108,110]
+            "movie": "The sixth sense",
+            "tickets": 3
         },
         {
-            "movie":"Catch me if you can",
-            "tickets":3,
-            "range":[111,113]
+            "movie": "The Terminal",
+            "tickets": 2
         },
         {
-            "movie":"The sixth sense",
-            "tickets":3,
-            "range":[114,116]
-        },
-        {
-            "movie":"The Terminal",
-            "tickets":2,
-            "range":[134,135]
-        },
-        {
-            "movie":"The Pelican Brief",
-            "tickets":2,
-            "range":[136,137]
-        },
-        {
-            "movie":"Hunt for the Wilderpeople",
-            "tickets":2,
-            "range":[138,139],
-            "drawn":true
+            "movie": "The Pelican Brief",
+            "tickets": 2
         }
     ],
-    "watchedList":[
+    "watchedList": [
         {
-            "movie":"Ghostbusters",
-            "date":"12-12-21",
-            "age":1984
+            "movie": "Ghostbusters",
+            "date": "12-12-21",
+            "age": 1984
         },
         {
-            "movie":"Scooby-Doo",
-            "date":"1-11-22",
-            "age":1998
+            "movie": "Scooby-Doo",
+            "date": "1-11-22",
+            "age": 1998
         },
         {
-            "movie":"The Court Jester",
-            "date":"1-29-22",
-            "age":1955
+            "movie": "The Court Jester",
+            "date": "1-29-22",
+            "age": 1955
         },
         {
-            "movie":"Casablanca",
-            "date":"2-12-22",
-            "age":1942
+            "movie": "Casablanca",
+            "date": "2-12-22",
+            "age": 1942
         },
         {
-            "movie":"Jurassic Park",
-            "date":"2-18-22",
-            "age":1993
+            "movie": "Jurassic Park",
+            "date": "2-18-22",
+            "age": 1993
         },
         {
-            "movie":"The Neverending Story",
-            "date":"3-5-22",
-            "age":1984
+            "movie": "The Neverending Story",
+            "date": "3-5-22",
+            "age": 1984
         },
         {
-            "movie":"Hook",
-            "date":"3-19-22",
-            "age":1991
+            "movie": "Hook",
+            "date": "3-19-22",
+            "age": 1991
         },
         {
-            "movie":"The Iron Giant",
-            "date":"4-1-22",
-            "age":1999
+            "movie": "The Iron Giant",
+            "date": "4-1-22",
+            "age": 1999
         },
         {
-            "movie":"The Private Eyes",
-            "date":"4-15-22",
-            "age":1980
+            "movie": "The Private Eyes",
+            "date": "4-15-22",
+            "age": 1980
         },
         {
-            "movie":"The Batman",
-            "date":"4-30-22",
-            "age":2022
+            "movie": "The Batman",
+            "date": "4-30-22",
+            "age": 2022
         },
         {
-            "movie":"Hot Fuzz",
-            "date":"5-13-22",
-            "age":2007
+            "movie": "Hot Fuzz",
+            "date": "5-13-22",
+            "age": 2007
         },
         {
-            "movie":"The Princess Bride",
-            "date":"5-27-22",
-            "age":1987
+            "movie": "The Princess Bride",
+            "date": "5-27-22",
+            "age": 1987
         },
         {
-            "movie":"The Shining",
-            "date":"6-10-22",
-            "age":1980,
-            "imdb":"tt0081505",
-            "trailer":"5Cb3ik6zP2I",
-            "rating":"R",
-            "img":"theShining.jpg",
-            "avalableOn":["HBO Max","YouTube","Itunes"]
+            "movie": "The Shining",
+            "date": "6-10-22",
+            "age": 1980,
+            "imdb": "tt0081505",
+            "trailer": "5Cb3ik6zP2I",
+            "rating": "R",
+            "img": "theShining.jpg",
+            "avalableOn": [
+                "HBO Max",
+                "YouTube",
+                "Itunes"
+            ]
         },
         {
-            "movie":"Treasure Planet",
-            "img":"treasurePlanet.jpg",
-            "imdb":"tt0133240",
-            "trailer":"tt0133240",
-            "rating":"PG",
-            "age":2002,
-            "date":"6-24-22"
+            "movie": "Treasure Planet",
+            "img": "treasurePlanet.jpg",
+            "imdb": "tt0133240",
+            "trailer": "tt0133240",
+            "rating": "PG",
+            "age": 2002,
+            "date": "6-24-22"
         },
         {
-            "movie":"Star Wars Theatrical Release",
-            "age":1977,
-            "date":"7-8-22"
+            "movie": "Star Wars Theatrical Release",
+            "age": 1977,
+            "date": "7-8-22"
         }
     ],
-    "silverList":[
+    "silverList": [
         {
-            "movie":"Big Trouble in Little China",
-            "imdb":"tt0090728",
-            "trailer":"kMxzmGStTHE",
-            "rating":"PG-13",
-            "img":"bigTroubleInLittleChina.jpg",
-            "avalableOn":["Amazon Prime","Itunes","YouTube"],
-            "ID":"S0"
+            "movie": "Big Trouble in Little China",
+            "imdb": "tt0090728",
+            "trailer": "kMxzmGStTHE",
+            "rating": "PG-13",
+            "img": "bigTroubleInLittleChina.jpg",
+            "avalableOn": [
+                "Amazon Prime",
+                "Itunes",
+                "YouTube"
+            ],
+            "ID": "S0"
         },
         {
-            "movie":"Fantastic Mr Fox",
-            "imdb":"tt0432283",
-            "trailer":"n2igjYFojUo",
-            "rating":"PG",
-            "img":"fantasticMrFox.jpg",
-            "avalableOn":["Disney +","YouTube","Itunes","Amazon Prime"],
-            "ID":"S1"
+            "movie": "Fantastic Mr Fox",
+            "imdb": "tt0432283",
+            "trailer": "n2igjYFojUo",
+            "rating": "PG",
+            "img": "fantasticMrFox.jpg",
+            "avalableOn": [
+                "Disney +",
+                "YouTube",
+                "Itunes",
+                "Amazon Prime"
+            ],
+            "ID": "S1"
         },
         {
-            "movie":"Prince of Egypt",
-            "imdb":"tt0120794",
-            "trailer":"N0Vh65UrBK4&t",
-            "rating":"PG",
-            "img":"princeOfEgypt.jpg",
-            "avalableOn":["YouTube","Itunes"],
-            "ID":"S2"
+            "movie": "Prince of Egypt",
+            "imdb": "tt0120794",
+            "trailer": "N0Vh65UrBK4&t",
+            "rating": "PG",
+            "img": "princeOfEgypt.jpg",
+            "avalableOn": [
+                "YouTube",
+                "Itunes"
+            ],
+            "ID": "S2"
         },
         {
-            "movie":"Pulp Fiction",
-            "imdb":"tt0110912",
-            "trailer":"N0Vh65UrBK4",
-            "rating":"R",
-            "img":"pulpFiction.jpg",
-            "avalableOn":["Amazon Prime","YouTube","Itunes"],
-            "ID":"S3"
+            "movie": "Pulp Fiction",
+            "imdb": "tt0110912",
+            "trailer": "N0Vh65UrBK4",
+            "rating": "R",
+            "img": "pulpFiction.jpg",
+            "avalableOn": [
+                "Amazon Prime",
+                "YouTube",
+                "Itunes"
+            ],
+            "ID": "S3"
         },
         {
-            "movie":"Shrek 2",
-            "imdb":"tt0298148",
-            "trailer":"xBgSfhp5Fxo",
-            "rating":"PG",
-            "img":"shrek2.jpg",
-            "avalableOn":["Amazon Prime","YouTube"],
-            "ID":"S4"
+            "movie": "Shrek 2",
+            "imdb": "tt0298148",
+            "trailer": "xBgSfhp5Fxo",
+            "rating": "PG",
+            "img": "shrek2.jpg",
+            "avalableOn": [
+                "Amazon Prime",
+                "YouTube"
+            ],
+            "ID": "S4"
         },
         {
-            "movie":"The Terminator 2",
-            "imdb":"tt0103064",
-            "trailer":"CRRlbK5w8AE",
-            "rating":"R",
-            "img":"terminator2.jpg",
-            "avalableOn":["HBO Max","YouTube","Amazon Prime"],
-            "ID":"S5"
+            "movie": "The Terminator 2",
+            "imdb": "tt0103064",
+            "trailer": "CRRlbK5w8AE",
+            "rating": "R",
+            "img": "terminator2.jpg",
+            "avalableOn": [
+                "HBO Max",
+                "YouTube",
+                "Amazon Prime"
+            ],
+            "ID": "S5"
         },
         {
-            "movie":"The Guy Who Didn't Like Musicals",
-            "imdb":"tt9509866",
-            "trailer":"BbVe8wMZXRA",
-            "rating":"NR",
-            "img":"TGWDLM.jpg",
-            "avalableOn":["YouTube"],
-            "ID":"S6"
+            "movie": "The Guy Who Didn't Like Musicals",
+            "imdb": "tt9509866",
+            "trailer": "BbVe8wMZXRA",
+            "rating": "NR",
+            "img": "TGWDLM.jpg",
+            "avalableOn": [
+                "YouTube"
+            ],
+            "ID": "S6"
         },
         {
-            "movie":"The Truman Show",
-            "img":"the truman show.jpg",
-            "imdb":"tt0120382",
-            "trailer":"dlnmQbPGuls",
-            "rating":"PG",
-            "age":1998,
-            "ID":"S7"
+            "movie": "The Truman Show",
+            "img": "the truman show.jpg",
+            "imdb": "tt0120382",
+            "trailer": "dlnmQbPGuls",
+            "rating": "PG",
+            "age": 1998,
+            "ID": "S7"
         }
     ],
-    "bronzeList":[
+    "bronzeList": [
         {
-            "movie":"The Dark Knight",
-            "img":"darkKnight.jpg",
-            "imdb":"tt0468569",
-            "trailer":"EXeTwQWrcwY",
-            "ID":"B0"
+            "movie": "The Dark Knight",
+            "img": "darkKnight.jpg",
+            "imdb": "tt0468569",
+            "trailer": "EXeTwQWrcwY",
+            "ID": "B0"
         },
         {
-            "movie":"The Changeling 1980",
-            "img":"theChangling.jpg",
-            "imdb":"tt0080516",
-            "trailer":"xTzgXVosQOU",
-            "ID":"B1"
+            "movie": "The Changeling 1980",
+            "img": "theChangling.jpg",
+            "imdb": "tt0080516",
+            "trailer": "xTzgXVosQOU",
+            "ID": "B1"
         },
         {
-            "movie":"Arrival",
-            "img":"arrival.jpg",
-            "imdb":"tt2543164",
-            "trailer":"tFMo3UJ4B4g",
-            "ID":"B2"
+            "movie": "Arrival",
+            "img": "arrival.jpg",
+            "imdb": "tt2543164",
+            "trailer": "tFMo3UJ4B4g",
+            "ID": "B2"
         },
         {
-            "movie":"The Italian Job 2003",
-            "img":"theitalianjob.jpg",
-            "imdb":"tt0317740",
-            "trailer":"uw6jY3VuOcI",
-            "ID":"B3"
+            "movie": "The Italian Job 2003",
+            "img": "theitalianjob.jpg",
+            "imdb": "tt0317740",
+            "trailer": "uw6jY3VuOcI",
+            "ID": "B3"
         },
         {
-            "movie":"The Fall",
-            "img":"thefall.jpg",
-            "imdb":"tt0460791",
-            "trailer":"rEi-v6aJD7Q&t",
-            "ID":"B4"
+            "movie": "The Fall",
+            "img": "thefall.jpg",
+            "imdb": "tt0460791",
+            "trailer": "rEi-v6aJD7Q&t",
+            "ID": "B4"
         },
         {
-            "movie":"Joker",
-            "imdb":"tt7286456",
-            "trailer":"zAGVQLHvwOY",
-            "rating":"R",
-            "img":"joker.jpg",
-            "avalableOn":["HBO Max","YouTube","Itunes"],
-            "ID":"B5"
+            "movie": "Joker",
+            "imdb": "tt7286456",
+            "trailer": "zAGVQLHvwOY",
+            "rating": "R",
+            "img": "joker.jpg",
+            "avalableOn": [
+                "HBO Max",
+                "YouTube",
+                "Itunes"
+            ],
+            "ID": "B5"
         },
         {
-            "movie":"Mulan 1998",
-            "img":"mulan.jpg",
-            "imdb":"tt0120762",
-            "trailer":"HKH7_n425Ss",
-            "rating":"G",
-            "age":1998,
-            "ID":"B6"
+            "movie": "Mulan 1998",
+            "img": "mulan.jpg",
+            "imdb": "tt0120762",
+            "trailer": "HKH7_n425Ss",
+            "rating": "G",
+            "age": 1998,
+            "ID": "B6"
         }
     ],
-    "theBlacklist":[
+    "theBlacklist": [
         {
-            "movie":"The King's Speech",
-            "imdb":"tt1504320",
-            "trailer":"gSw6ei5tdbg",
-            "rating":"R",
-            "img":"kingsSpeech.jpg",
-            "avalableOn":["YouTube","Itunes"]
+            "movie": "The King's Speech",
+            "imdb": "tt1504320",
+            "trailer": "gSw6ei5tdbg",
+            "rating": "R",
+            "img": "kingsSpeech.jpg",
+            "avalableOn": [
+                "YouTube",
+                "Itunes"
+            ]
         },
         {
-            "movie":"South Park Bigger Longer and Uncut"
+            "movie": "South Park Bigger Longer and Uncut"
         }
     ]
-    
 }
