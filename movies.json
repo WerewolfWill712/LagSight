@@ -1,22 +1,14 @@
 {
     "movielst": [
         {
-            "movie": "The Help",
-            "img": "thehelp.jpg",
-            "imdb": "tt1454029",
-            "trailer": "aT9eWGjLv6s",
-            "rating": "PG-13",
-            "age": 2011,
-            "ID": "M0"
-        },
-        {
             "movie": "Army of Darkness",
             "img": "Army of Darkness.jpg",
             "imdb": "tt0106308",
             "trailer": "li_O7k-3ZMU",
             "rating": "R",
             "age": 1992,
-            "ID": "M1"
+            "ID": "M0"
+            
         },
         {
             "movie": "Clear and present danger",
@@ -25,7 +17,8 @@
             "trailer": "TuYb6ZNQaZo",
             "rating": "PG-13",
             "age": 1994,
-            "ID": "M2"
+            "ID": "M1"
+            
         },
         {
             "movie": "The Prestige",
@@ -34,16 +27,8 @@
             "trailer": "RLtaA9fFNXU",
             "rating": "PG-13",
             "age": 2006,
-            "ID": "M3"
-        },
-        {
-            "movie": "Groundhogs Day",
-            "img": "groundhogs day.jpg",
-            "imdb": "tt0107048",
-            "trailer": "GncQtURdcE4",
-            "rating": "PG",
-            "age": 1993,
-            "ID": "M4"
+            "ID": "M2"
+            
         },
         {
             "movie": "Master and Commander",
@@ -52,7 +37,8 @@
             "trailer": "tHTHCNYiiHk",
             "rating": "PG-13",
             "age": 2003,
-            "ID": "M5"
+            "ID": "M3"
+            
         },
         {
             "movie": "Twister",
@@ -61,7 +47,8 @@
             "trailer": "IeokJIGsAyM",
             "rating": "PG-13",
             "age": 1996,
-            "ID": "M6"
+            "ID": "M4"
+            
         },
         {
             "movie": "The Count of Monte Christo",
@@ -70,16 +57,8 @@
             "trailer": "qesn8pV9yu8",
             "rating": "PG-13",
             "age": 2002,
-            "ID": "M7"
-        },
-        {
-            "movie": "Young Sherlock Holmes",
-            "img": "youngSherHolmes.jpg",
-            "imdb": "tt0090357",
-            "trailer": "PVTHS6vyOZw",
-            "rating": "PG-13",
-            "age": 1985,
-            "ID": "M8"
+            "ID": "M5"
+            
         },
         {
             "movie": "Stand By Me",
@@ -88,7 +67,8 @@
             "trailer": "jaiZ6ZQoO-Y",
             "rating": "R",
             "age": 1986,
-            "ID": "M9"
+            "ID": "M6"
+            
         },
         {
             "movie": "If I Stay",
@@ -97,7 +77,8 @@
             "trailer": "rMp896hfp74",
             "rating": "PG-13",
             "age": 2014,
-            "ID": "M10"
+            "ID": "M7"
+            
         },
         {
             "movie": "Hunt for the Wilderpeople",
@@ -106,7 +87,35 @@
             "trailer": "dPaU4Gymt3E",
             "rating": "PG-13",
             "age": 2016,
-            "ID": "M11"
+            "ID": "M8"
+            
+        },
+        {
+            "movie":"Robin Hood: Men in Tights",
+            "img":"men-InTights.jpg",
+            "imdb":"tt0107977",
+            "trailer":"p04iXzUBpww",
+            "rating":"PG-13",
+            "age":1993,
+            "ID": "M9" 
+        },
+        {
+            "movie":"The Grand Budapest Hotel",
+            "img":"theGrandBudapestHotel.jpg",
+            "imdb":"tt2278388",
+            "trailer":"1Fg5iWmQjwk",
+            "rating":"R",
+            "age":2014,
+            "ID": "M10"
+        },
+        {
+            "movie":"Toy Story 4",
+            "img":"toyStory4.jpg",
+            "imdb":"tt1979376",
+            "trailer":"wmiIUN-7qhE",
+            "rating":"G",
+            "age":2019,
+            "ID": "M11" 
         }
     ],
     "raffleList": [
@@ -139,15 +148,7 @@
             "tickets": 5
         },
         {
-            "movie": "Men in Tights",
-            "tickets": 5
-        },
-        {
             "movie": "Scott Pilgrim vs the World",
-            "tickets": 5
-        },
-        {
-            "movie": "Toy Story 4",
             "tickets": 5
         },
         {
@@ -192,10 +193,6 @@
         },
         {
             "movie": "Willow",
-            "tickets": 4
-        },
-        {
-            "movie": "The Grand Budapest Hotel",
             "tickets": 4
         },
         {
@@ -311,6 +308,15 @@
             "movie": "Star Wars Theatrical Release",
             "age": 1977,
             "date": "7-8-22"
+        },
+        {
+            "movie": "Groundhogs Day",
+            "img": "groundhogs day.jpg",
+            "imdb": "tt0107048",
+            "trailer": "GncQtURdcE4",
+            "rating": "PG",
+            "age": 1993,
+            "date":"7-22-22"
         }
     ],
     "silverList": [
@@ -410,6 +416,15 @@
             "rating": "PG",
             "age": 1998,
             "ID": "S7"
+        },
+        {
+            "movie": "Young Sherlock Holmes",
+            "img": "youngSherHolmes.jpg",
+            "imdb": "tt0090357",
+            "trailer": "PVTHS6vyOZw",
+            "rating": "PG-13",
+            "age": 1985,
+            "ID":"S8"
         }
     ],
     "bronzeList": [
@@ -469,6 +484,14 @@
             "rating": "G",
             "age": 1998,
             "ID": "B6"
+        },
+        {"movie": "The Help",
+            "img": "thehelp.jpg",
+            "imdb": "tt1454029",
+            "trailer": "aT9eWGjLv6s",
+            "rating": "PG-13",
+            "age": 2011,
+            "ID":"B7"
         }
     ],
     "theBlacklist": [

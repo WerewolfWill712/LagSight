@@ -35,13 +35,11 @@ let renderDraw = async (result) => {
     resultEl.innerHTML = resRender
 }
 let renderlist = (list) => {
-    let liRender = '',
-        ticRender = ''
+    let liRender = ''
     liRender += `<h3>Movie</h3>`
     list.forEach(i => {
         liRender += `<div class = "movies">${i.movie}:  ${i.tickets}</div>`
     })
     listRaffleNamEL.innerHTML = liRender
-    listRaffTickets.innerHTML = ticRender
 }
 raffleList()

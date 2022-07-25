@@ -4,7 +4,7 @@ drawRaffleBtn = document.getElementById("draw-raffle"),
 drawMainBtn = document.getElementById("draw"),
 drawBronzeBtn = document.getElementById("draw-bronze"),
 cpyBtn = document.getElementById("copy")
-
+console.log(window.performance)
 drawMainBtn.addEventListener("click",()=>{renderDraw('movielst')})
 drawSilverBtn.addEventListener("click",()=>{renderDraw('silverList')})
 drawBronzeBtn.addEventListener("click",()=>{renderDraw('bronzeList')})
