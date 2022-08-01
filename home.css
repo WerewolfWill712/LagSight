@@ -10,9 +10,15 @@ p {
 
 .alert {
     /* when announced*/
-    display: none;
+    display: block;
     /* change above to block*/
 }
+
+/* for selected movies */
+#M11,#M9,#M8{
+    background-color: goldenrod
+}
+/* for selected movies */
 
 @media only screen and (max-width:280px) {
     .alert {
