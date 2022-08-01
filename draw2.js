@@ -13,7 +13,7 @@ function draw(list) {
     let randGen=[],
     namRes=''
     while (randGen.length<3) {
-        let candInt=Math.floor(Math.random()*(list.length-1))
+        let candInt=Math.floor(Math.random()*(list.length))
         if(randGen.indexOf(candInt)===-1){
             randGen.push(candInt)
         }
