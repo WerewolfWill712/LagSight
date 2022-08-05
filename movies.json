@@ -81,41 +81,40 @@
             
         },
         {
-            "movie": "Hunt for the Wilderpeople",
-            "img": "huntforwilderpeople.jpg",
-            "imdb": "tt4698684",
-            "trailer": "dPaU4Gymt3E",
-            "rating": "PG-13",
-            "age": 2016,
-            "ID": "M8"
-            
-        },
-        {
-            "movie":"Robin Hood: Men in Tights",
-            "img":"men-InTights.jpg",
-            "imdb":"tt0107977",
-            "trailer":"p04iXzUBpww",
-            "rating":"PG-13",
-            "age":1993,
-            "ID": "M9" 
-        },
-        {
             "movie":"The Grand Budapest Hotel",
             "img":"theGrandBudapestHotel.jpg",
             "imdb":"tt2278388",
             "trailer":"1Fg5iWmQjwk",
             "rating":"R",
             "age":2014,
+            "ID": "M8"
+        },
+        {   
+            "movie":"TBD",
+            "img":"idk.jpg",
+            "imdb":"",
+            "trailer":"",
+            "rating":"",
+            "age":0,
+            "ID": "M9"
+        },
+        {
+            "movie":"TBD",
+            "img":"idk.jpg",
+            "imdb":"",
+            "trailer":"",
+            "rating":"",
+            "age":0,
             "ID": "M10"
         },
         {
-            "movie":"Toy Story 4",
-            "img":"toyStory4.jpg",
-            "imdb":"tt1979376",
-            "trailer":"wmiIUN-7qhE",
-            "rating":"G",
-            "age":2019,
-            "ID": "M11" 
+            "movie":"TBD",
+            "img":"idk.jpg",
+            "imdb":"",
+            "trailer":"",
+            "rating":"",
+            "age":0,
+            "ID": "M11"
         }
     ],
     "raffleList": [
@@ -317,6 +316,15 @@
             "rating": "PG",
             "age": 1993,
             "date":"7-22-22"
+        },
+        {
+            "movie":"Robin Hood: Men in Tights",
+            "img":"men-InTights.jpg",
+            "imdb":"tt0107977",
+            "trailer":"p04iXzUBpww",
+            "rating":"PG-13",
+            "age":1993,
+            "date":"8-5-22"
         }
     ],
     "silverList": [
@@ -425,6 +433,15 @@
             "rating": "PG-13",
             "age": 1985,
             "ID":"S8"
+        },
+        {   
+            "movie": "Hunt for the Wilderpeople",
+            "img": "huntforwilderpeople.jpg",
+            "imdb": "tt4698684",
+            "trailer": "dPaU4Gymt3E",
+            "rating": "PG-13",
+            "age": 2016,
+            "ID":"S9"
         }
     ],
     "bronzeList": [
@@ -492,6 +509,15 @@
             "rating": "PG-13",
             "age": 2011,
             "ID":"B7"
+        },
+        {
+            "movie":"Toy Story 4",
+            "img":"toyStory4.jpg",
+            "imdb":"tt1979376",
+            "trailer":"wmiIUN-7qhE",
+            "rating":"G",
+            "age":2019,
+            "ID":"B8"
         }
     ],
     "theBlacklist": [
