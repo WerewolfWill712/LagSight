@@ -90,30 +90,30 @@
             "ID": "M8"
         },
         {   
-            "movie":"TBD",
-            "img":"idk.jpg",
-            "imdb":"",
-            "trailer":"",
-            "rating":"",
-            "age":0,
+            "movie":"The Sixth Sense",
+            "img":"theSixthSense.jpg",
+            "imdb":"tt0167404",
+            "trailer":"3-ZP95NF_Wk",
+            "rating":"PG-13",
+            "age":1999,
             "ID": "M9"
         },
         {
-            "movie":"TBD",
-            "img":"idk.jpg",
-            "imdb":"",
-            "trailer":"",
-            "rating":"",
-            "age":0,
+            "movie":"Hugo",
+            "img":"hugo.jpg",
+            "imdb":"tt0970179",
+            "trailer":"gUthyrYwXUc",
+            "rating":"PG",
+            "age":2011,
             "ID": "M10"
         },
         {
-            "movie":"TBD",
-            "img":"idk.jpg",
-            "imdb":"",
-            "trailer":"",
-            "rating":"",
-            "age":0,
+            "movie":"Edge of Tomorrow",
+            "img":"edgeOfTomorrrow.jpg",
+            "imdb":"tt1631867",
+            "trailer":"vw61gCe2oqI",
+            "rating":"PG-13",
+            "age":2014,
             "ID": "M11"
         }
     ],
