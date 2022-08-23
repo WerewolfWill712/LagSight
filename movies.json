@@ -41,24 +41,13 @@
             
         },
         {
-            "movie": "Twister",
-            "img": "twister.jpg",
-            "imdb": "tt0117998",
-            "trailer": "IeokJIGsAyM",
-            "rating": "PG-13",
-            "age": 1996,
-            "ID": "M4"
-            
-        },
-        {
             "movie": "The Count of Monte Christo",
             "img": "the count of monte cristo.jpg",
             "imdb": "tt0245844",
             "trailer": "qesn8pV9yu8",
             "rating": "PG-13",
             "age": 2002,
-            "ID": "M5"
-            
+            "ID":"M4"
         },
         {
             "movie": "Stand By Me",
@@ -67,7 +56,7 @@
             "trailer": "jaiZ6ZQoO-Y",
             "rating": "R",
             "age": 1986,
-            "ID": "M6"
+            "ID": "M5"
             
         },
         {
@@ -77,26 +66,8 @@
             "trailer": "rMp896hfp74",
             "rating": "PG-13",
             "age": 2014,
-            "ID": "M7"
+            "ID": "M6"
             
-        },
-        {
-            "movie":"The Grand Budapest Hotel",
-            "img":"theGrandBudapestHotel.jpg",
-            "imdb":"tt2278388",
-            "trailer":"1Fg5iWmQjwk",
-            "rating":"R",
-            "age":2014,
-            "ID": "M8"
-        },
-        {   
-            "movie":"The Sixth Sense",
-            "img":"theSixthSense.jpg",
-            "imdb":"tt0167404",
-            "trailer":"3-ZP95NF_Wk",
-            "rating":"PG-13",
-            "age":1999,
-            "ID": "M9"
         },
         {
             "movie":"Hugo",
@@ -105,7 +76,8 @@
             "trailer":"gUthyrYwXUc",
             "rating":"PG",
             "age":2011,
-            "ID": "M10"
+            "ID": "M7"
+            
         },
         {
             "movie":"Edge of Tomorrow",
@@ -114,6 +86,33 @@
             "trailer":"vw61gCe2oqI",
             "rating":"PG-13",
             "age":2014,
+            "ID": "M8"
+        },
+        {   
+            "movie":"Willow",
+            "img":"willow.jpg",
+            "imdb":"tt0096446",
+            "trailer":"uzn2izehkno",
+            "rating":"PG",
+            "age":"1988",
+            "ID": "M9"
+        },
+        {
+            "movie":"The Librarian",
+            "img":"The Librarian.jpg",
+            "imdb":"tt0412915",
+            "trailer":"DKmgxh5pswM",
+            "rating":"NR",
+            "age":"2004",
+            "ID": "M10"
+        },
+        {
+            "movie":"Howls Moving Castle",
+            "img":"HowlsMovingCastel.jpg",
+            "imdb":"tt0347149",
+            "trailer":"iwROgK94zcM",
+            "rating":"PG",
+            "age":"2004",
             "ID": "M11"
         }
     ],
@@ -129,10 +128,6 @@
         {
             "movie": "Shrek",
             "tickets": 7
-        },
-        {
-            "movie": "Howls Moving Castle",
-            "tickets": 6
         },
         {
             "movie": "Rain Man",
@@ -175,19 +170,11 @@
             "tickets": 4
         },
         {
-            "movie": "The Librarian",
-            "tickets": 4
-        },
-        {
             "movie": "The Scarlett Pimpernel",
             "tickets": 4
         },
         {
             "movie": "Dirty Rotten Scoundrels",
-            "tickets": 4
-        },
-        {
-            "movie": "Willow",
             "tickets": 4
         },
         {
@@ -313,6 +300,15 @@
             "rating":"PG-13",
             "age":1993,
             "date":"8-5-22"
+        },
+        {
+            "movie":"The Grand Budapest Hotel",
+            "img":"theGrandBudapestHotel.jpg",
+            "imdb":"tt2278388",
+            "trailer":"1Fg5iWmQjwk",
+            "rating":"R",
+            "age":2014,
+            "date":"8-19-22"
         }
     ],
     "silverList": [
@@ -430,6 +426,16 @@
             "rating": "PG-13",
             "age": 2016,
             "ID":"S9"
+        },
+        {
+            "movie": "Twister",
+            "img": "twister.jpg",
+            "imdb": "tt0117998",
+            "trailer": "IeokJIGsAyM",
+            "rating": "PG-13",
+            "age": 1996,
+            "ID": "S10"
+            
         }
     ],
     "bronzeList": [
@@ -506,6 +512,15 @@
             "rating":"G",
             "age":2019,
             "ID":"B8"
+        },
+        {
+            "movie":"The Sixth Sense",
+            "img":"theSixthSense.jpg",
+            "imdb":"tt0167404",
+            "trailer":"3-ZP95NF_Wk",
+            "rating":"PG-13",
+            "age":1999,
+            "ID":"B9"
         }
     ],
     "theBlacklist": [

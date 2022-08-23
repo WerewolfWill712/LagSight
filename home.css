@@ -10,16 +10,24 @@ p {
 
 .alert {
     /* when announced*/
-    display: block;
+    display: none;
     /* change above to block*/
 }
 
 /* for selected movies */
 #M4,#M9,#M8{
-    background-color: goldenrod
+    background-color: inherit
 }
 /* for selected movies */
 
+#watchedlist,#movielist,#bronzelist,#silverlist{
+    height: 80vh;
+    overflow-y: scroll;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
 @media only screen and (max-width:280px) {
     .alert {
         margin: 1rem auto;
