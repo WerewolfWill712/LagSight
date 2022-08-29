@@ -10,13 +10,13 @@ p {
 
 .alert {
     /* when announced*/
-    display: none;
+    display: block;
     /* change above to block*/
 }
 
 /* for selected movies */
-#M4,#M9,#M8{
-    background-color: inherit
+#M4,#M0,#M8{
+    background-color: goldenrod
 }
 /* for selected movies */
 
