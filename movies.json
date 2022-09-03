@@ -116,10 +116,6 @@
             "tickets": 7
         },
         {
-            "movie": "Princess Mononoke",
-            "tickets": 7
-        },
-        {
             "movie": "Shrek",
             "tickets": 7
         },
@@ -170,14 +166,6 @@
         {
             "movie": "Dirty Rotten Scoundrels",
             "tickets": 4
-        },
-        {
-            "movie": "The Village",
-            "tickets": 3
-        },
-        {
-            "movie": "Catch me if you can",
-            "tickets": 3
         },
         {
             "movie": "The Terminal",
