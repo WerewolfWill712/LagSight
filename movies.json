@@ -83,7 +83,7 @@
             "ID": "M8"
         },
         {
-            "movNam": "Catch Me If You Can",
+            "movie": "Catch Me If You Can",
             "img": "catchMeIfYouCan.jpg",
             "imdb": "tt0264464",
             "trailer": "lN6Irv9tnYI",
@@ -92,7 +92,7 @@
             "ID": "M9"
         },
         {
-            "movNam": "Princess Mononoke",
+            "movie": "Princess Mononoke",
             "img": "princsessMononoke.jpg",
             "imdb": "tt0119698",
             "trailer": "4OiMOHRDs14",
@@ -101,7 +101,7 @@
             "ID": "M10"
         },
         {
-            "movNam": "The Village",
+            "movie": "The Village",
             "img": "theVillage.jpg",
             "imdb": "tt0368447",
             "trailer": "sTGyhwvdY6k",
