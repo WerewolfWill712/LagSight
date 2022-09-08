@@ -8,6 +8,7 @@ p {
     margin: 0;
 }
 
+
 .alert {
     /* when announced*/
     display: none;
@@ -15,249 +16,105 @@ p {
 }
 
 /* for selected movies */
-#M4,#M0,#M8{
+#M4,
+#M0,
+#M8 {
     background-color: inherit
 }
+
 /* for selected movies */
 
-#watchedlist,#movielist,#bronzelist,#silverlist{
-    height: 80vh;
+.lists{
+    max-height: 38em;
     overflow-y: scroll;
 }
-.container{
+.info{
+    display: flex;
+    max-width: 60rem;
+    justify-content: center;
+    margin: .2rem auto;
+}
+.container {
     display: flex;
     flex-direction: column;
-}
-@media only screen and (max-width:280px) {
-    .alert {
-        margin: 1rem auto;
-    }
-
-    .alert>h1 {
-        font-size: 1rem;
-        text-align: center;
-    }
-
-    .alert>h1>a {
-        padding: .1rem;
-        background-color: #800080;
-        border: black solid 2px;
-        border-radius: 5px;
-        color: white;
-        text-decoration: none;
-    }
-
-    .info {
-        display: flex;
-        justify-content: space-evenly;
-        flex-direction: column;
-    }
-
-    #title {
-        font-weight: 800;
-        font-size: 1.5rem;
-    }
-
-    .indivnam {
-        display: flex;
-        flex-direction: column;
-        border: black solid 1px;
-        border-radius: 2px;
-        text-align: center;
-        max-width: 80%;
-        margin: .5em auto;
-        padding: .5rem;
-    }
-
-    .indivnam>span {
-        padding: .2rem 0;
-        font-size: 1.2rem;
-        text-decoration: underline;
-    }
-
-    .defClass {
-        display: none;
-    }
-
-    .togClass {
-        display: block;
-    }
-
-    .togClass>a {
-        padding: .1rem;
-        border: black solid;
-        border-radius: 3px;
-        font-size: 1.2rem;
-        color: black;
-        text-decoration: none;
-    }
-
-    .togClass>img {
-        display: block;
-        max-width: 95%;
-        margin: .5rem auto;
-    }
-
+    max-width: 12rem;
+    margin: 0 .5rem;
 }
 
-@media only screen and (min-width:320px) {
-    .alert {
-        margin: 1rem auto;
-    }
 
-    .alert>h1 {
-        font-size: 1.3rem;
-        text-align: center;
-    }
-
-    .alert>h1>a {
-        padding: .1rem;
-        background-color: #800080;
-        border: black solid 2px;
-        border-radius: 5px;
-        color: white;
-        text-decoration: none;
-    }
-
-    .info {
-        display: flex;
-        justify-content: space-evenly;
-        flex-direction: column;
-    }
-
-    #title {
-        font-weight: 800;
-        font-size: 1.5rem;
-    }
-
-    .indivnam {
-        cursor: pointer;
-        display: flex;
-        flex-direction: column;
-        border: black solid 1px;
-        border-radius: 2px;
-        text-align: center;
-        max-width: 80%;
-        margin: .5em auto;
-        padding: .5rem;
-    }
-
-    .indivnam>span {
-        padding: .2rem 0;
-        font-size: 1.2rem;
-        text-decoration: underline;
-    }
-
-    .defClass {
-        display: none;
-    }
-
-    .togClass {
-        display: block;
-    }
-
-    .togClass>a {
-        padding: .1rem;
-        border: black solid;
-        border-radius: 3px;
-        font-size: 1.2rem;
-        color: black;
-        text-decoration: none;
-    }
-
-    .togClass>img {
-        display: block;
-        max-width: 95%;
-        margin: .5rem auto;
-    }
+.alert {
+    margin: 1rem auto;
 }
 
-@media only screen and (min-width:481px) {
-    .indivnam>span {
-        font-size: 1.8rem
-    }
+.alert>h1 {
+    font-size: 1rem;
+    text-align: center;
 }
 
-@media only screen and (min-width:796px) {
+.alert>h1>a {
+    padding: .1rem;
+    background-color: #800080;
+    border: black solid 2px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
 
-    .alert {
-        margin: 1rem auto;
-    }
 
-    .alert>h1 {
-        font-size: 2rem;
-        text-align: center;
-    }
+#title {
+    font-weight: 800;
+    font-size: 1.5rem;
+}
 
-    .alert>h1>a {
-        padding: .1rem;
-        background-color: #800080;
-        border: black solid 2px;
-        border-radius: 5px;
-        color: white;
-        text-decoration: none;
-    }
+.indivnam {
+    display: flex;
+    flex-direction: column;
+    border: black solid 1px;
+    border-radius: 2px;
+    text-align: center;
+    max-width: 80%;
+    margin: .5em auto;
+    padding: .5rem;
+}
 
-    .info {
-        display: flex;
-        justify-content: space-evenly;
-        flex-direction: row;
-        max-width: 50rem;
-        margin: 0 auto;
-    }
+.indivnam>span {
+    padding: .2rem 0;
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
 
-    #title {
-        font-weight: 800;
-        font-size: 1.5rem;
-    }
+.defClass {
+    display: none;
+}
 
-    .indivnam {
-        cursor: pointer;
-        display: flex;
+.togClass {
+    display: block;
+}
+
+.togClass>a {
+    padding: .1rem;
+    border: black solid;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    color: black;
+    text-decoration: none;
+}
+
+.togClass>img {
+    display: block;
+    max-width: 95%;
+    margin: .5rem auto;
+}
+
+@media only screen and (max-width:40rem) {
+    .info{
         flex-direction: column;
-        align-items: center;
-        border: black solid 1px;
-        border-radius: 2px;
-        text-align: center;
-        max-width: 80%;
-        margin: .5em auto;
-        padding: .5rem;
     }
-
-    .indivnam>span {
-        padding: .2rem 0;
-        font-size: 1.2rem;
-        text-decoration: underline;
+    .container{
+        max-width: 100%;
     }
-
-    .defClass {
-        display: none;
-    }
-
-    .togClass {
-        display: block;
-    }
-
-    .togClass>a {
-        padding: .1rem;
-        border: black solid 1px;
-        border-radius: 3px;
-        font-size: .9rem;
-        color: black;
-        text-decoration: none;
-    }
-
-    .togClass>img {
-        display: block;
-        max-width: 10rem;
-        margin: .5rem auto;
-        aspect-ratio: 2/3;
-    }
-
-    #movielist,
-    #watchedlist,
-    #silverlist,
-    #bronzelist {
-        max-width: 12rem;
+    .lists{
+        max-height: none;
+        overflow-x: unset;
     }
 }
