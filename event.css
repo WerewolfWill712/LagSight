@@ -1,3 +1,4 @@
+*{font-family: "Inter";}
 body{
     background-color: white;
 }
@@ -33,4 +34,11 @@ body{
 .eventnams>h2{
     margin: 1rem;
     width: 400px;
+}
+.silver{
+    background-color: #9f9f9f;
+    padding: .5rem;
+    color: #fff;
+    border: 5px solid #000;
+    border-radius: 5px;
 }

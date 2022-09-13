@@ -11,15 +11,16 @@ p {
 
 .alert {
     /* when announced*/
-    display: none;
+    display: block;
     /* change above to block*/
 }
 
 /* for selected movies */
-#M4,
-#M0,
-#M8 {
-    background-color: inherit
+#S2,
+#S3,
+#S5 {
+    background-color: #9172da;
+    color: white;
 }
 
 /* for selected movies */
@@ -43,17 +44,17 @@ p {
 
 
 .alert {
-    margin: 1rem auto;
+    margin: .2rem auto;
 }
 
 .alert>h1 {
-    font-size: 1rem;
+    font-size: 2rem;
     text-align: center;
 }
 
 .alert>h1>a {
     padding: .1rem;
-    background-color: #800080;
+    background-color: #9172da;
     border: black solid 2px;
     border-radius: 5px;
     color: white;
