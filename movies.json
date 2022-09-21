@@ -300,6 +300,18 @@
             "rating": "PG-13",
             "age": 2002,
             "date":"9-2-22"
+        },
+        {
+            "movie": "Prince of Egypt",
+            "imdb": "tt0120794",
+            "trailer": "N0Vh65UrBK4&t",
+            "rating": "PG",
+            "img": "princeOfEgypt.jpg",
+            "avalableOn": [
+                "YouTube",
+                "Itunes"
+            ],
+            "date":"9-16-22"
         }
     ],
     "silverList": [
@@ -331,31 +343,6 @@
             "ID": "S1"
         },
         {
-            "movie": "Prince of Egypt",
-            "imdb": "tt0120794",
-            "trailer": "N0Vh65UrBK4&t",
-            "rating": "PG",
-            "img": "princeOfEgypt.jpg",
-            "avalableOn": [
-                "YouTube",
-                "Itunes"
-            ],
-            "ID": "S2"
-        },
-        {
-            "movie": "Pulp Fiction",
-            "imdb": "tt0110912",
-            "trailer": "s7EdQ4FqbhY&t",
-            "rating": "R",
-            "img": "pulpFiction.jpg",
-            "avalableOn": [
-                "Amazon Prime",
-                "YouTube",
-                "Itunes"
-            ],
-            "ID": "S3"
-        },
-        {
             "movie": "Shrek 2",
             "imdb": "tt0298148",
             "trailer": "xBgSfhp5Fxo",
@@ -365,20 +352,7 @@
                 "Amazon Prime",
                 "YouTube"
             ],
-            "ID": "S4"
-        },
-        {
-            "movie": "The Terminator 2",
-            "imdb": "tt0103064",
-            "trailer": "CRRlbK5w8AE",
-            "rating": "R",
-            "img": "terminator2.jpg",
-            "avalableOn": [
-                "HBO Max",
-                "YouTube",
-                "Amazon Prime"
-            ],
-            "ID": "S5"
+            "ID": "S2"
         },
         {
             "movie": "The Guy Who Didn't Like Musicals",
@@ -389,7 +363,7 @@
             "avalableOn": [
                 "YouTube"
             ],
-            "ID": "S6"
+            "ID": "S3"
         },
         {
             "movie": "The Truman Show",
@@ -398,7 +372,7 @@
             "trailer": "dlnmQbPGuls",
             "rating": "PG",
             "age": 1998,
-            "ID": "S7"
+            "ID": "S4"
         },
         {
             "movie": "Young Sherlock Holmes",
@@ -407,16 +381,16 @@
             "trailer": "PVTHS6vyOZw",
             "rating": "PG-13",
             "age": 1985,
-            "ID":"S8"
+            "ID": "S5"
         },
-        {   
+        {
             "movie": "Hunt for the Wilderpeople",
             "img": "huntforwilderpeople.jpg",
             "imdb": "tt4698684",
             "trailer": "dPaU4Gymt3E",
             "rating": "PG-13",
             "age": 2016,
-            "ID":"S9"
+            "ID": "S6"
         },
         {
             "movie": "Twister",
@@ -425,8 +399,7 @@
             "trailer": "IeokJIGsAyM",
             "rating": "PG-13",
             "age": 1996,
-            "ID": "S10"
-            
+            "ID": "S7"
         },
         {
             "movie": "Army of Darkness",
@@ -435,7 +408,7 @@
             "trailer": "li_O7k-3ZMU",
             "rating": "R",
             "age": 1992,
-            "ID":"S11"
+            "ID":"S8"
         }
     ],
     "bronzeList": [
@@ -530,6 +503,19 @@
             "rating":"PG-13",
             "age":2014,
             "ID":"B10"
+        },
+        {
+            "movie": "Pulp Fiction",
+            "imdb": "tt0110912",
+            "trailer": "s7EdQ4FqbhY&t",
+            "rating": "R",
+            "img": "pulpFiction.jpg",
+            "avalableOn": [
+                "Amazon Prime",
+                "YouTube",
+                "Itunes"
+            ],
+            "ID":"B11"
         }
     ],
     "theBlacklist": [
@@ -546,6 +532,18 @@
         },
         {
             "movie": "South Park Bigger Longer and Uncut"
+        },
+        {
+            "movie": "The Terminator 2",
+            "imdb": "tt0103064",
+            "trailer": "CRRlbK5w8AE",
+            "rating": "R",
+            "img": "terminator2.jpg",
+            "avalableOn": [
+                "HBO Max",
+                "YouTube",
+                "Amazon Prime"
+            ]
         }
     ]
 }

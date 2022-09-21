@@ -11,7 +11,7 @@ p {
 
 .alert {
     /* when announced*/
-    display: block;
+    display: none;
     /* change above to block*/
 }
 
@@ -19,8 +19,8 @@ p {
 #S2,
 #S3,
 #S5 {
-    background-color: #9172da;
-    color: white;
+    /* background-color: #9172da;
+    color: white; */
 }
 
 /* for selected movies */
