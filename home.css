@@ -8,7 +8,7 @@ p {
     margin: 0;
 }
 
-
+footer{display: none;}
 .alert {
     /* when announced*/
     display: none;
@@ -16,12 +16,13 @@ p {
 }
 
 /* for selected movies */
-#S2,
+
+/* #S2,
 #S3,
 #S5 {
-    /* background-color: #9172da;
-    color: white; */
-}
+    background-color: #9172da;
+    color: white;
+} */
 
 /* for selected movies */
 

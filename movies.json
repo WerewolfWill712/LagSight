@@ -10,22 +10,13 @@
             "ID": "M0"
         },
         {
-            "movie": "The Prestige",
-            "img": "theprestige.jpg",
-            "imdb": "tt0482571",
-            "trailer": "RLtaA9fFNXU",
-            "rating": "PG-13",
-            "age": 2006,
-            "ID": "M1"
-        },
-        {
             "movie": "Master and Commander",
             "img": "masterAndCommander.jpg",
             "imdb": "tt0311113",
             "trailer": "tHTHCNYiiHk",
             "rating": "PG-13",
             "age": 2003,
-            "ID": "M2"
+            "ID": "M1"
         },
         {
             "movie": "Stand By Me",
@@ -34,16 +25,7 @@
             "trailer": "jaiZ6ZQoO-Y",
             "rating": "R",
             "age": 1986,
-            "ID": "M3"
-        },
-        {
-            "movie": "If I Stay",
-            "img": "ifIStay.jpg",
-            "imdb": "tt1355630",
-            "trailer": "rMp896hfp74",
-            "rating": "PG-13",
-            "age": 2014,
-            "ID":"M4"
+            "ID": "M2"
         },
         {
             "movie":"Hugo",
@@ -52,8 +34,7 @@
             "trailer":"gUthyrYwXUc",
             "rating":"PG",
             "age":2011,
-            "ID": "M5"
-        
+            "ID": "M3"
         },
         {
             "movie":"Willow",
@@ -62,7 +43,7 @@
             "trailer":"uzn2izehkno",
             "rating":"PG",
             "age":"1988",
-            "ID": "M6"
+            "ID":"M4"
         },
         {
             "movie":"The Librarian",
@@ -71,7 +52,7 @@
             "trailer":"DKmgxh5pswM",
             "rating":"NR",
             "age":"2004",
-            "ID": "M7"
+            "ID": "M5"
         },
         {
             "movie":"Howls Moving Castle",
@@ -80,7 +61,7 @@
             "trailer":"iwROgK94zcM",
             "rating":"PG",
             "age":"2004",
-            "ID": "M8"
+            "ID": "M6"
         },
         {
             "movie": "Catch Me If You Can",
@@ -89,16 +70,7 @@
             "trailer": "lN6Irv9tnYI",
             "rating": "PG-13",
             "age": "2002",
-            "ID": "M9"
-        },
-        {
-            "movie": "Princess Mononoke",
-            "img": "princsessMononoke.jpg",
-            "imdb": "tt0119698",
-            "trailer": "4OiMOHRDs14",
-            "rating": "PG-13",
-            "age": "1997",
-            "ID": "M10"
+            "ID": "M7"
         },
         {
             "movie": "The Village",
@@ -107,6 +79,33 @@
             "trailer": "sTGyhwvdY6k",
             "rating": "PG-13",
             "age": "2004",
+            "ID": "M8"
+        },
+        {
+            "movie":"Dune",
+            "img":"dune.jpg",
+            "imdb":"tt1160419",
+            "trailer":"8g18jFHCLXk",
+            "rating":"PG-13",
+            "age":"2021",
+            "ID": "M9"
+        },
+        {
+            "movie":"Dirty Rotten Scoundrels",
+            "img":"dirtyRottenScoundrels.jpg",
+            "imdb":"tt0095031",
+            "trailer":"jb8ialk-J4c",
+            "rating":"PG",
+            "age":"1988",
+            "ID": "M10"
+        },
+        {
+            "movie":"The Pelican Brief",
+            "img":"thePelicanBrief.jpg",
+            "imdb":"tt0107798",
+            "trailer":"N7seUNbY1_w",
+            "rating":"PG-13",
+            "age":"1993",
             "ID": "M11"
         }
     ],
@@ -140,10 +139,6 @@
             "tickets": 5
         },
         {
-            "movie": "Dune",
-            "tickets": 5
-        },
-        {
             "movie": "12 angry men",
             "tickets": 5
         },
@@ -164,15 +159,7 @@
             "tickets": 4
         },
         {
-            "movie": "Dirty Rotten Scoundrels",
-            "tickets": 4
-        },
-        {
             "movie": "The Terminal",
-            "tickets": 2
-        },
-        {
-            "movie": "The Pelican Brief",
             "tickets": 2
         }
     ],
@@ -312,6 +299,14 @@
                 "Itunes"
             ],
             "date":"9-16-22"
+        },
+        {
+            "movie": "Princess Mononoke",
+            "img": "princsessMononoke.jpg",
+            "imdb": "tt0119698",
+            "trailer": "4OiMOHRDs14",
+            "rating": "PG-13",
+            "age": "1997"
         }
     ],
     "silverList": [
@@ -409,6 +404,15 @@
             "rating": "R",
             "age": 1992,
             "ID":"S8"
+        },
+        {
+            "movie": "The Prestige",
+            "img": "theprestige.jpg",
+            "imdb": "tt0482571",
+            "trailer": "RLtaA9fFNXU",
+            "rating": "PG-13",
+            "age": 2006,
+            "ID":"S9"
         }
     ],
     "bronzeList": [
@@ -516,6 +520,15 @@
                 "Itunes"
             ],
             "ID":"B11"
+        },
+        {
+            "movie": "If I Stay",
+            "img": "ifIStay.jpg",
+            "imdb": "tt1355630",
+            "trailer": "rMp896hfp74",
+            "rating": "PG-13",
+            "age": 2014,
+            "ID":"B12"
         }
     ],
     "theBlacklist": [

@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Lag sight"
+		"liveServer.settings.multiRootWorkspaceName": "Lag sight",
+		"liveServer.settings.port": 5501
 	}
 }
