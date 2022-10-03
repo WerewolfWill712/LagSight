@@ -55,12 +55,12 @@
             "ID": "M5"
         },
         {
-            "movie":"Howls Moving Castle",
-            "img":"HowlsMovingCastel.jpg",
-            "imdb":"tt0347149",
-            "trailer":"iwROgK94zcM",
-            "rating":"PG",
-            "age":"2004",
+            "movie": "Princess Mononoke",
+            "img": "princsessMononoke.jpg",
+            "imdb": "tt0119698",
+            "trailer": "4OiMOHRDs14",
+            "rating": "PG-13",
+            "age": "1997",
             "ID": "M6"
         },
         {
@@ -301,12 +301,13 @@
             "date":"9-16-22"
         },
         {
-            "movie": "Princess Mononoke",
-            "img": "princsessMononoke.jpg",
-            "imdb": "tt0119698",
-            "trailer": "4OiMOHRDs14",
-            "rating": "PG-13",
-            "age": "1997"
+            "movie":"Howls Moving Castle",
+            "img":"HowlsMovingCastel.jpg",
+            "imdb":"tt0347149",
+            "trailer":"iwROgK94zcM",
+            "rating":"PG",
+            "age":"2004",
+            "date":"9-30-22"
         }
     ],
     "silverList": [
